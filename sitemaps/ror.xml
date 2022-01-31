@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:ror="http://rorweb.com/0.1/" >
+<channel>
+  <title>ROR Sitemap for https://courses-hippiques.github.io/</title>
+  <link>https://courses-hippiques.github.io/</link>
+
+<item>
+     <link>https://courses-hippiques.github.io/</link>
+     <title>Courses Hippiques France</title>
+     <description>Télécharger des livres en PDF immédiatement de chez vous pour gagner aux courses hippiques </description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>0</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://courses-hippiques.github.io/index.html</link>
+     <title>Courses Hippiques France</title>
+     <description>Télécharger des livres en PDF immédiatement de chez vous pour gagner aux courses hippiques </description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+</channel>
+</rss>
+  
